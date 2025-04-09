@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+[## Hi there 👋
+<h2 align="left">Hi 👋! My name is Diego Gómez and I'm a systems engineering student, from Guatemala</h2>
 
 ###
 
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhzOXNpNno5dzMxaGhmN3lrM213MzE1YnIwdzd1cHprN2o3dG55MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6oFNB3JPuLpAs/giphy.gif)
 
 ###
